@@ -1,4 +1,4 @@
 matbloggspriset-nominera-wp
 ===========================
 
-Simple WordPress Plugin displaying ”Nominera mig till Matbloggspriset Folkets val”-graphics (just like a ribbon) at the upper right (or bottom right). 
+Enkel WordPress-plugin som visar ”Nominera mig till Matbloggspriset Folkets val”-grafik i översta eller understa hörnet till höger på din matblogg. GPLv2
